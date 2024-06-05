@@ -6,4 +6,5 @@ Este proyecto fue desarrollado por:
 * Cano Yepez Danny Sebastian
 * Carrera Saltos Camila Zarahi
 * Rosero Garcia Jonathan Steve
+
 Con una duración de 5 semanas
