@@ -7,4 +7,4 @@ Este proyecto fue desarrollado por:
 * Carrera Saltos Camila Zarahi
 * Rosero Garcia Jonathan Steve
 
-Con una duración de 5 semanas
+Con una duración de 5 semanas.
